@@ -1,0 +1,21 @@
+version: '3'
+services:
+  bungeecord:
+    image: openjdk:17-slim-bullseye
+    volumes:
+      - ./bungeecord:/mc
+    working_dir: /mc
+    command: ["java",  "-Xms2G","-Xmx2G","-jar", "/mc/BungeeCord.jar","nogui"]
+    ports:
+      - 25565:25565
+      - 19132:19132/udp
+  mc1:
+    image: openjdk:17-slim-bullseye
+    volumes:
+      - ./mc:/mc
+    working_dir: /mc
+    command: ["java",  "-Xms3G","-Xmx3G","-jar", "/mc/paper-1.20.4-378.jar","nogui"]
+
+
+
+  
