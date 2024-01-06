@@ -1,6 +1,7 @@
 version: '3'
 services:
   bungeecord:
+    restart: always
     image: openjdk:17-slim-bullseye
     volumes:
       - ./bungeecord:/mc
@@ -10,6 +11,7 @@ services:
       - 25565:25565
       - 19132:19132/udp
   mc1:
+    restart: always
     image: openjdk:17-slim-bullseye
     volumes:
       - ./mc:/mc
