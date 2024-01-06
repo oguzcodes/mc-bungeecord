@@ -1910,3 +1910,1069 @@ java.lang.RuntimeException: Geyser has not been loaded yet!
 08:29:35 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
 08:29:35 [INFO] Closing IO threads
 08:29:35 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+10:56:27 [INFO] Using standard Java JCE cipher.
+10:56:27 [INFO] Using standard Java compressor.
+10:56:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+10:56:27 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+10:56:27 [INFO] Epoll is working, utilising it!
+10:56:27 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+10:56:27 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+10:56:27 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+10:56:27 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+10:56:27 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+10:56:27 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+10:56:28 [INFO] [Geyser-BungeeCord] Loading extensions...
+10:56:28 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+10:56:28 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+10:56:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:28 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+10:56:28 [INFO] [floodgate] Took 748ms to boot Floodgate
+10:56:28 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+10:56:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [WARNING] Forced host server pvp is not defined
+10:56:29 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+10:56:29 [INFO] [Geyser-BungeeCord] ******************************************
+10:56:29 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] [Geyser-BungeeCord] 
+10:56:29 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+10:56:29 [INFO] [Geyser-BungeeCord] 
+10:56:29 [INFO] [Geyser-BungeeCord] ******************************************
+10:56:29 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+10:56:29 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+10:56:29 [INFO] Listening on /0.0.0.0:25565
+10:56:33 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+10:56:33 [INFO] [Geyser-BungeeCord] Done (3.684s)! Run /geyser help for help!
+10:59:12 [INFO] Closing listener [id: 0x6fe8682c, L:/0.0.0.0:25565]
+10:59:12 [INFO] Closing listener [id: 0x40974b28, L:local:E:47331874]
+10:59:12 [INFO] Closing pending connections
+10:59:12 [INFO] Disconnecting 0 connections
+10:59:12 [INFO] Saving reconnect locations
+10:59:12 [INFO] Disabling plugins
+10:59:12 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+10:59:12 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+10:59:12 [INFO] Closing IO threads
+10:59:12 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+11:00:39 [INFO] Using standard Java JCE cipher.
+11:00:39 [INFO] Using standard Java compressor.
+11:00:39 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+11:00:40 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:00:40 [INFO] Epoll is working, utilising it!
+11:00:40 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+11:00:40 [INFO] [Geyser-BungeeCord] Loading extensions...
+11:00:40 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+11:00:40 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:00:40 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:40 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:40 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:40 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+11:00:41 [INFO] [floodgate] Took 523ms to boot Floodgate
+11:00:41 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:00:41 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [WARNING] Forced host server pvp is not defined
+11:00:41 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:00:41 [INFO] [Geyser-BungeeCord] ******************************************
+11:00:41 [INFO] [Geyser-BungeeCord] 
+11:00:41 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+11:00:41 [INFO] [Geyser-BungeeCord] 
+11:00:41 [INFO] [Geyser-BungeeCord] ******************************************
+11:00:41 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:00:41 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:00:41 [INFO] Listening on /0.0.0.0:25565
+11:00:44 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+11:00:44 [INFO] [Geyser-BungeeCord] Done (3.505s)! Run /geyser help for help!
+11:02:19 [INFO] Closing listener [id: 0x7350b411, L:local:E:55a9d579]
+11:02:19 [INFO] Closing listener [id: 0xd5b72c69, L:/0.0.0.0:25565]
+11:02:19 [INFO] Closing pending connections
+11:02:19 [INFO] Disconnecting 0 connections
+11:02:19 [INFO] Saving reconnect locations
+11:02:19 [INFO] Disabling plugins
+11:02:19 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+11:02:20 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+11:02:20 [INFO] Closing IO threads
+11:02:20 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+11:02:30 [INFO] Using standard Java JCE cipher.
+11:02:30 [INFO] Using standard Java compressor.
+11:02:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+11:02:30 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:02:30 [INFO] Epoll is working, utilising it!
+11:02:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+11:02:30 [INFO] [Geyser-BungeeCord] Loading extensions...
+11:02:30 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+11:02:30 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:02:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+11:02:31 [INFO] [floodgate] Took 416ms to boot Floodgate
+11:02:31 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:02:31 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [WARNING] Forced host server pvp is not defined
+11:02:31 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:02:31 [INFO] [Geyser-BungeeCord] ******************************************
+11:02:31 [INFO] [Geyser-BungeeCord] 
+11:02:31 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+11:02:31 [INFO] [Geyser-BungeeCord] 
+11:02:31 [INFO] [Geyser-BungeeCord] ******************************************
+11:02:31 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:02:31 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:02:31 [INFO] Listening on /0.0.0.0:25565
+11:02:33 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+11:02:33 [INFO] [Geyser-BungeeCord] Done (2.531s)! Run /geyser help for help!
+11:15:49 [INFO] Closing listener [id: 0x1951929d, L:local:E:5ffd7b86]
+11:15:49 [INFO] Closing listener [id: 0xba499a1d, L:/0.0.0.0:25565]
+11:15:49 [INFO] Closing pending connections
+11:15:49 [INFO] Disconnecting 0 connections
+11:15:50 [INFO] Saving reconnect locations
+11:15:50 [INFO] Disabling plugins
+11:15:50 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+11:15:50 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+11:15:50 [INFO] Closing IO threads
+11:15:50 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+11:15:57 [INFO] Using standard Java JCE cipher.
+11:15:57 [INFO] Using standard Java compressor.
+11:15:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+11:15:57 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:15:57 [INFO] Epoll is working, utilising it!
+11:15:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+11:15:58 [INFO] [Geyser-BungeeCord] Loading extensions...
+11:15:58 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+11:15:58 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:15:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+11:15:58 [INFO] [floodgate] Took 328ms to boot Floodgate
+11:15:58 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:15:58 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [WARNING] Forced host server pvp is not defined
+11:15:58 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+11:15:58 [INFO] [Geyser-BungeeCord] ******************************************
+11:15:58 [INFO] [Geyser-BungeeCord] 
+11:15:58 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+11:15:58 [INFO] [Geyser-BungeeCord] 
+11:15:58 [INFO] [Geyser-BungeeCord] ******************************************
+11:15:58 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:58 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:59 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+11:15:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+11:15:59 [INFO] Listening on /0.0.0.0:25565
+11:16:01 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+11:16:01 [INFO] [Geyser-BungeeCord] Done (2.217s)! Run /geyser help for help!
+12:19:25 [INFO] Closing listener [id: 0x024a04ab, L:local:E:5b317047]
+12:19:26 [INFO] Closing listener [id: 0x79a7a2ac, L:/0.0.0.0:25565]
+12:19:26 [INFO] Closing pending connections
+12:19:26 [INFO] Disconnecting 0 connections
+12:19:26 [INFO] Saving reconnect locations
+12:19:26 [INFO] Disabling plugins
+12:19:26 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+12:19:26 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+12:19:26 [INFO] Closing IO threads
+12:19:26 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+12:19:53 [INFO] Using standard Java JCE cipher.
+12:19:53 [INFO] Using standard Java compressor.
+12:19:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+12:19:53 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:19:53 [INFO] Epoll is working, utilising it!
+12:19:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:19:53 [INFO] [Geyser-BungeeCord] Loading extensions...
+12:19:53 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+12:19:53 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+12:19:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+12:19:54 [INFO] [floodgate] Took 348ms to boot Floodgate
+12:19:54 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+12:19:54 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [WARNING] Forced host server pvp is not defined
+12:19:54 [INFO] [Geyser-BungeeCord] ******************************************
+12:19:54 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+12:19:54 [INFO] [Geyser-BungeeCord] 
+12:19:54 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+12:19:54 [INFO] [Geyser-BungeeCord] 
+12:19:54 [INFO] [Geyser-BungeeCord] ******************************************
+12:19:54 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+12:19:54 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:19:54 [INFO] Listening on /0.0.0.0:25565
+12:19:56 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+12:19:56 [INFO] [Geyser-BungeeCord] Done (2.303s)! Run /geyser help for help!
+12:20:42 [INFO] Closing listener [id: 0xf54013de, L:/0.0.0.0:25565]
+12:20:42 [INFO] Closing listener [id: 0xbd9fd9cf, L:local:E:4448865f]
+12:20:42 [INFO] Closing pending connections
+12:20:42 [INFO] Disconnecting 0 connections
+12:20:43 [INFO] Saving reconnect locations
+12:20:43 [INFO] Disabling plugins
+12:20:43 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+12:20:43 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+12:20:43 [INFO] Closing IO threads
+12:20:43 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+12:22:12 [INFO] Using standard Java JCE cipher.
+12:22:12 [INFO] Using standard Java compressor.
+12:22:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+12:22:12 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:22:12 [INFO] Epoll is working, utilising it!
+12:22:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:22:12 [INFO] [Geyser-BungeeCord] Loading extensions...
+12:22:12 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+12:22:12 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+12:22:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+12:22:13 [INFO] [floodgate] Took 335ms to boot Floodgate
+12:22:13 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+12:22:13 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [WARNING] Forced host server pvp is not defined
+12:22:13 [INFO] [Geyser-BungeeCord] ******************************************
+12:22:13 [INFO] [Geyser-BungeeCord] 
+12:22:13 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+12:22:13 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+12:22:13 [INFO] [Geyser-BungeeCord] 
+12:22:13 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] [Geyser-BungeeCord] ******************************************
+12:22:13 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+12:22:13 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+12:22:13 [INFO] Listening on /0.0.0.0:25565
+12:22:15 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+12:22:15 [INFO] [Geyser-BungeeCord] Done (2.354s)! Run /geyser help for help!
+13:08:34 [INFO] Closing listener [id: 0xbbaf2181, L:local:E:8e3cfacc]
+13:08:34 [INFO] Closing listener [id: 0x6f957283, L:/0.0.0.0:25565]
+13:08:34 [INFO] Closing pending connections
+13:08:34 [INFO] Disconnecting 0 connections
+13:08:35 [INFO] Saving reconnect locations
+13:08:35 [INFO] Disabling plugins
+13:08:35 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+13:08:35 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+13:08:35 [INFO] Closing IO threads
+13:08:35 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+13:10:04 [INFO] Using standard Java JCE cipher.
+13:10:04 [INFO] Using standard Java compressor.
+13:10:04 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+13:10:04 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:10:04 [INFO] Epoll is working, utilising it!
+13:10:04 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:10:04 [INFO] [Geyser-BungeeCord] Loading extensions...
+13:10:04 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+13:10:04 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+13:10:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:04 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:04 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:04 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+13:10:05 [INFO] [floodgate] Took 363ms to boot Floodgate
+13:10:05 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+13:10:05 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [WARNING] Forced host server pvp is not defined
+13:10:05 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+13:10:05 [INFO] [Geyser-BungeeCord] ******************************************
+13:10:05 [INFO] [Geyser-BungeeCord] 
+13:10:05 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+13:10:05 [INFO] [Geyser-BungeeCord] 
+13:10:05 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] [Geyser-BungeeCord] ******************************************
+13:10:05 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+13:10:05 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:10:05 [INFO] Listening on /0.0.0.0:25565
+13:10:07 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+13:10:07 [INFO] [Geyser-BungeeCord] Done (2.267s)! Run /geyser help for help!
+13:10:29 [INFO] Closing listener [id: 0x9f3df8f7, L:/0.0.0.0:25565]
+13:10:29 [INFO] Closing listener [id: 0xfe980987, L:local:E:ed31084a]
+13:10:29 [INFO] Closing pending connections
+13:10:29 [INFO] Disconnecting 0 connections
+13:10:30 [INFO] Saving reconnect locations
+13:10:30 [INFO] Disabling plugins
+13:10:30 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+13:10:30 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+13:10:30 [INFO] Closing IO threads
+13:10:30 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+13:11:56 [INFO] Using standard Java JCE cipher.
+13:11:56 [INFO] Using standard Java compressor.
+13:11:56 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+13:11:56 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:11:56 [INFO] Epoll is working, utilising it!
+13:11:56 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:11:56 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:11:56 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:11:56 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:11:56 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:11:56 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:11:57 [INFO] [Geyser-BungeeCord] Loading extensions...
+13:11:57 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+13:11:57 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+13:11:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+13:11:57 [INFO] [floodgate] Took 301ms to boot Floodgate
+13:11:57 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+13:11:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [WARNING] Forced host server pvp is not defined
+13:11:57 [INFO] [Geyser-BungeeCord] ******************************************
+13:11:57 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+13:11:57 [INFO] [Geyser-BungeeCord] 
+13:11:57 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+13:11:57 [INFO] [Geyser-BungeeCord] 
+13:11:57 [INFO] [Geyser-BungeeCord] ******************************************
+13:11:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+13:11:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+13:11:57 [INFO] Listening on /0.0.0.0:25565
+13:11:59 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+13:11:59 [INFO] [Geyser-BungeeCord] Done (2.245s)! Run /geyser help for help!
+13:12:22 [INFO] Closing listener [id: 0xd20c7757, L:local:E:ae87a95c]
+13:12:22 [INFO] Closing listener [id: 0x6ff0575a, L:/0.0.0.0:25565]
+13:12:22 [INFO] Closing pending connections
+13:12:22 [INFO] Disconnecting 0 connections
+13:12:22 [INFO] Saving reconnect locations
+13:12:22 [INFO] Disabling plugins
+13:12:22 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+13:12:22 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+13:12:22 [INFO] Closing IO threads
+13:12:22 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+13:12:24 [INFO] Thank you and goodbye
+14:43:03 [INFO] Using standard Java JCE cipher.
+14:43:03 [INFO] Using standard Java compressor.
+14:43:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+14:43:03 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:43:03 [INFO] Epoll is working, utilising it!
+14:43:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+14:43:03 [INFO] [Geyser-BungeeCord] Loading extensions...
+14:43:03 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+14:43:03 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:43:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+14:43:04 [INFO] [floodgate] Took 411ms to boot Floodgate
+14:43:04 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:43:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [WARNING] Forced host server pvp is not defined
+14:43:04 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:43:04 [INFO] [Geyser-BungeeCord] ******************************************
+14:43:04 [INFO] [Geyser-BungeeCord] 
+14:43:04 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+14:43:04 [INFO] [Geyser-BungeeCord] 
+14:43:04 [INFO] [Geyser-BungeeCord] ******************************************
+14:43:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:43:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:43:04 [INFO] Listening on /0.0.0.0:25565
+14:43:07 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+14:43:07 [INFO] [Geyser-BungeeCord] Done (2.943s)! Run /geyser help for help!
+14:44:20 [INFO] Closing listener [id: 0x378b41bf, L:local:E:d39231f3]
+14:44:20 [INFO] Closing listener [id: 0x6b5d7d55, L:/0.0.0.0:25565]
+14:44:20 [INFO] Closing pending connections
+14:44:20 [INFO] Disconnecting 0 connections
+14:44:21 [INFO] Saving reconnect locations
+14:44:21 [INFO] Disabling plugins
+14:44:21 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+14:44:21 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+14:44:21 [INFO] Closing IO threads
+14:44:21 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+14:52:05 [INFO] Using standard Java JCE cipher.
+14:52:05 [INFO] Using standard Java compressor.
+14:52:05 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+14:52:05 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:52:05 [INFO] Epoll is working, utilising it!
+14:52:05 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+14:52:05 [INFO] [Geyser-BungeeCord] Loading extensions...
+14:52:05 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+14:52:05 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:52:05 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:05 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:05 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:05 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+14:52:06 [INFO] [floodgate] Took 376ms to boot Floodgate
+14:52:06 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:52:06 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [WARNING] Forced host server pvp is not defined
+14:52:06 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:52:06 [INFO] [Geyser-BungeeCord] ******************************************
+14:52:06 [INFO] [Geyser-BungeeCord] 
+14:52:06 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+14:52:06 [INFO] [Geyser-BungeeCord] 
+14:52:06 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] [Geyser-BungeeCord] ******************************************
+14:52:06 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:52:06 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:52:06 [INFO] Listening on /0.0.0.0:25565
+14:52:09 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+14:52:09 [INFO] [Geyser-BungeeCord] Done (2.807s)! Run /geyser help for help!
+14:56:49 [INFO] Closing listener [id: 0xe9dceaf2, L:/0.0.0.0:25565]
+14:56:49 [INFO] Closing listener [id: 0x38aa0b9a, L:local:E:1da81272]
+14:56:49 [INFO] Closing pending connections
+14:56:49 [INFO] Disconnecting 0 connections
+14:56:49 [INFO] Saving reconnect locations
+14:56:49 [INFO] Disabling plugins
+14:56:49 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+14:56:49 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+14:56:49 [INFO] Closing IO threads
+14:56:50 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+14:59:29 [INFO] Using standard Java JCE cipher.
+14:59:29 [INFO] Using standard Java compressor.
+14:59:29 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+14:59:29 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:59:29 [INFO] Epoll is working, utilising it!
+14:59:29 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+14:59:29 [INFO] [Geyser-BungeeCord] Loading extensions...
+14:59:29 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+14:59:29 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:59:29 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:29 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:29 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:29 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+14:59:30 [INFO] [floodgate] Took 344ms to boot Floodgate
+14:59:30 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:59:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [WARNING] Forced host server pvp is not defined
+14:59:30 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+14:59:30 [INFO] [Geyser-BungeeCord] ******************************************
+14:59:30 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] [Geyser-BungeeCord] 
+14:59:30 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+14:59:30 [INFO] [Geyser-BungeeCord] 
+14:59:30 [INFO] [Geyser-BungeeCord] ******************************************
+14:59:30 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+14:59:30 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+14:59:30 [INFO] Listening on /0.0.0.0:25565
+14:59:32 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+14:59:32 [INFO] [Geyser-BungeeCord] Done (2.396s)! Run /geyser help for help!
+15:09:15 [INFO] Closing listener [id: 0xb87877e1, L:/0.0.0.0:25565]
+15:09:15 [INFO] Closing listener [id: 0x3b1a357a, L:local:E:87e07bdb]
+15:09:15 [INFO] Closing pending connections
+15:09:15 [INFO] Disconnecting 0 connections
+15:09:16 [INFO] Saving reconnect locations
+15:09:16 [INFO] Disabling plugins
+15:09:16 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:09:16 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:09:16 [INFO] Closing IO threads
+15:09:16 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:11:03 [INFO] Using standard Java JCE cipher.
+15:11:03 [INFO] Using standard Java compressor.
+15:11:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:11:03 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:11:03 [INFO] Epoll is working, utilising it!
+15:11:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:11:03 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:11:03 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:11:03 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:11:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:11:04 [INFO] [floodgate] Took 434ms to boot Floodgate
+15:11:04 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:11:04 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [WARNING] Forced host server pvp is not defined
+15:11:04 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:11:04 [INFO] [Geyser-BungeeCord] ******************************************
+15:11:04 [INFO] [Geyser-BungeeCord] 
+15:11:04 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:11:04 [INFO] [Geyser-BungeeCord] 
+15:11:04 [INFO] [Geyser-BungeeCord] ******************************************
+15:11:04 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:11:04 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:11:04 [INFO] Listening on /0.0.0.0:25565
+15:11:07 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:11:07 [INFO] [Geyser-BungeeCord] Done (2.773s)! Run /geyser help for help!
+15:14:07 [INFO] Closing listener [id: 0x59116338, L:/0.0.0.0:25565]
+15:14:07 [INFO] Closing listener [id: 0xa70f0c65, L:local:E:dfa90c22]
+15:14:07 [INFO] Closing pending connections
+15:14:07 [INFO] Disconnecting 0 connections
+15:14:07 [INFO] Saving reconnect locations
+15:14:07 [INFO] Disabling plugins
+15:14:07 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:14:07 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:14:07 [INFO] Closing IO threads
+15:14:07 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:14:09 [INFO] Thank you and goodbye
+15:14:18 [INFO] Using standard Java JCE cipher.
+15:14:18 [INFO] Using standard Java compressor.
+15:14:18 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:14:19 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:14:19 [INFO] Epoll is working, utilising it!
+15:14:19 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:14:19 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:14:19 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:14:19 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:14:19 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:19 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:19 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:19 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:19 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:14:19 [INFO] [floodgate] Took 359ms to boot Floodgate
+15:14:19 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:14:19 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [WARNING] Forced host server pvp is not defined
+15:14:20 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:14:20 [INFO] [Geyser-BungeeCord] ******************************************
+15:14:20 [INFO] [Geyser-BungeeCord] 
+15:14:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:14:20 [INFO] [Geyser-BungeeCord] 
+15:14:20 [INFO] [Geyser-BungeeCord] ******************************************
+15:14:20 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:14:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:14:20 [INFO] Listening on /0.0.0.0:25565
+15:14:22 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:14:22 [INFO] [Geyser-BungeeCord] Done (2.407s)! Run /geyser help for help!
+15:16:44 [INFO] Closing listener [id: 0xff48e30b, L:local:E:27db034a]
+15:16:44 [INFO] Closing listener [id: 0x863733c7, L:/0.0.0.0:25565]
+15:16:44 [INFO] Closing pending connections
+15:16:44 [INFO] Disconnecting 0 connections
+15:16:44 [INFO] Saving reconnect locations
+15:16:44 [INFO] Disabling plugins
+15:16:44 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:16:44 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:16:44 [INFO] Closing IO threads
+15:16:44 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:16:56 [INFO] Using standard Java JCE cipher.
+15:16:56 [INFO] Using standard Java compressor.
+15:16:56 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:16:56 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:16:56 [INFO] Epoll is working, utilising it!
+15:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:16:57 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:16:57 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:16:57 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:16:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:16:57 [INFO] [floodgate] Took 338ms to boot Floodgate
+15:16:57 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:16:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [WARNING] Forced host server pvp is not defined
+15:16:57 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:16:57 [INFO] [Geyser-BungeeCord] ******************************************
+15:16:57 [INFO] [Geyser-BungeeCord] 
+15:16:57 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:16:57 [INFO] [Geyser-BungeeCord] 
+15:16:57 [INFO] [Geyser-BungeeCord] ******************************************
+15:16:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:16:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:16:58 [INFO] Listening on /0.0.0.0:25565
+15:17:00 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:17:00 [INFO] [Geyser-BungeeCord] Done (2.352s)! Run /geyser help for help!
+15:26:03 [INFO] Closing listener [id: 0x85444c8b, L:/0.0.0.0:25565]
+15:26:03 [INFO] Closing listener [id: 0xf5e28809, L:local:E:59979d29]
+15:26:03 [INFO] Closing pending connections
+15:26:03 [INFO] Disconnecting 0 connections
+15:26:04 [INFO] Saving reconnect locations
+15:26:04 [INFO] Disabling plugins
+15:26:04 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:26:04 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:26:04 [INFO] Closing IO threads
+15:26:04 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:26:12 [INFO] Using standard Java JCE cipher.
+15:26:12 [INFO] Using standard Java compressor.
+15:26:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:26:12 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:26:12 [INFO] Epoll is working, utilising it!
+15:26:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:26:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:26:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:26:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:26:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:26:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:26:13 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:26:13 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:26:13 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:26:13 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:26:13 [INFO] [floodgate] Took 367ms to boot Floodgate
+15:26:13 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:26:13 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [WARNING] Forced host server pvp is not defined
+15:26:13 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:26:13 [INFO] [Geyser-BungeeCord] ******************************************
+15:26:13 [INFO] [Geyser-BungeeCord] 
+15:26:13 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:26:13 [INFO] [Geyser-BungeeCord] 
+15:26:13 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] [Geyser-BungeeCord] ******************************************
+15:26:13 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:26:13 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:26:13 [INFO] Listening on /0.0.0.0:25565
+15:26:16 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:26:16 [INFO] [Geyser-BungeeCord] Done (2.555s)! Run /geyser help for help!
+15:36:03 [INFO] Closing listener [id: 0x5418d379, L:local:E:d47e599a]
+15:36:04 [INFO] Closing listener [id: 0x7581c094, L:/0.0.0.0:25565]
+15:36:04 [INFO] Closing pending connections
+15:36:04 [INFO] Disconnecting 0 connections
+15:36:04 [INFO] Saving reconnect locations
+15:36:04 [INFO] Disabling plugins
+15:36:04 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:36:04 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:36:04 [INFO] Closing IO threads
+15:36:04 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:36:23 [INFO] Using standard Java JCE cipher.
+15:36:23 [INFO] Using standard Java compressor.
+15:36:23 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:36:23 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:36:23 [INFO] Epoll is working, utilising it!
+15:36:23 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:36:23 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:36:23 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:36:23 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:36:23 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:36:23 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:36:24 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:36:24 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:36:24 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:36:24 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:36:24 [INFO] [floodgate] Took 359ms to boot Floodgate
+15:36:24 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:36:24 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [WARNING] Forced host server pvp is not defined
+15:36:24 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:36:24 [INFO] [Geyser-BungeeCord] ******************************************
+15:36:24 [INFO] [Geyser-BungeeCord] 
+15:36:24 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:36:24 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] [Geyser-BungeeCord] 
+15:36:24 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] [Geyser-BungeeCord] ******************************************
+15:36:24 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:36:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:36:24 [INFO] Listening on /0.0.0.0:25565
+15:36:26 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:36:26 [INFO] [Geyser-BungeeCord] Done (2.266s)! Run /geyser help for help!
+15:41:06 [INFO] Closing listener [id: 0x8ae51044, L:/0.0.0.0:25565]
+15:41:06 [INFO] Closing listener [id: 0xfcde7475, L:local:E:a6bc5172]
+15:41:06 [INFO] Closing pending connections
+15:41:06 [INFO] Disconnecting 0 connections
+15:41:07 [INFO] Saving reconnect locations
+15:41:07 [INFO] Disabling plugins
+15:41:07 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:41:07 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:41:07 [INFO] Closing IO threads
+15:41:07 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:41:15 [INFO] Using standard Java JCE cipher.
+15:41:15 [INFO] Using standard Java compressor.
+15:41:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:41:15 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:41:15 [INFO] Epoll is working, utilising it!
+15:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:41:15 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:41:15 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:41:15 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:41:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:15 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:15 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:15 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:41:16 [INFO] [floodgate] Took 391ms to boot Floodgate
+15:41:16 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:41:16 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [WARNING] Forced host server pvp is not defined
+15:41:16 [INFO] [Geyser-BungeeCord] ******************************************
+15:41:16 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:41:16 [INFO] [Geyser-BungeeCord] 
+15:41:16 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:41:16 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] [Geyser-BungeeCord] 
+15:41:16 [INFO] [Geyser-BungeeCord] ******************************************
+15:41:16 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:41:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:41:16 [INFO] Listening on /0.0.0.0:25565
+15:41:18 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:41:18 [INFO] [Geyser-BungeeCord] Done (2.721s)! Run /geyser help for help!
+15:41:56 [INFO] Closing listener [id: 0xfa84c540, L:local:E:181bca83]
+15:41:56 [INFO] Closing listener [id: 0x0360daf3, L:/0.0.0.0:25565]
+15:41:56 [INFO] Closing pending connections
+15:41:56 [INFO] Disconnecting 0 connections
+15:41:56 [INFO] Saving reconnect locations
+15:41:56 [INFO] Disabling plugins
+15:41:56 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:41:56 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:41:56 [INFO] Closing IO threads
+15:41:56 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:42:24 [INFO] Using standard Java JCE cipher.
+15:42:24 [INFO] Using standard Java compressor.
+15:42:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:42:24 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:42:24 [INFO] Epoll is working, utilising it!
+15:42:24 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:42:24 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:42:24 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:42:24 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:42:24 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:42:24 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:42:25 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:42:25 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:42:25 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:42:25 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:42:25 [INFO] [floodgate] Took 395ms to boot Floodgate
+15:42:25 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:42:25 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [WARNING] Forced host server pvp is not defined
+15:42:25 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:42:25 [INFO] [Geyser-BungeeCord] ******************************************
+15:42:25 [INFO] [Geyser-BungeeCord] 
+15:42:25 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:42:25 [INFO] [Geyser-BungeeCord] 
+15:42:25 [INFO] [Geyser-BungeeCord] ******************************************
+15:42:25 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:42:25 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:25 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:42:26 [INFO] Listening on /0.0.0.0:25565
+15:42:28 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:42:28 [INFO] [Geyser-BungeeCord] Done (2.804s)! Run /geyser help for help!
+15:44:36 [INFO] Closing listener [id: 0x1094aeaf, L:/0.0.0.0:25565]
+15:44:36 [INFO] Closing listener [id: 0xc6e0bdb4, L:local:E:c488590d]
+15:44:36 [INFO] Closing pending connections
+15:44:36 [INFO] Disconnecting 0 connections
+15:44:37 [INFO] Saving reconnect locations
+15:44:37 [INFO] Disabling plugins
+15:44:37 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:44:37 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:44:37 [INFO] Closing IO threads
+15:44:37 [INFO] [Geyser-BungeeCord] The skin uploader has been closed
+15:44:51 [INFO] Using standard Java JCE cipher.
+15:44:51 [INFO] Using standard Java compressor.
+15:44:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:b23a518:1786
+15:44:51 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:44:51 [INFO] Epoll is working, utilising it!
+15:44:51 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:44:51 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:44:51 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:44:51 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:44:51 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:44:51 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:44:52 [INFO] [Geyser-BungeeCord] Loading extensions...
+15:44:52 [INFO] [Geyser-BungeeCord] Loaded 0 extension(s)
+15:44:52 [INFO] Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:44:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [WARNING] [floodgate] en_ is not a supported Floodgate language.
+15:44:52 [INFO] [floodgate] Took 370ms to boot Floodgate
+15:44:52 [INFO] Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:44:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [WARNING] Forced host server pvp is not defined
+15:44:52 [INFO] Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+15:44:52 [INFO] [Geyser-BungeeCord] ******************************************
+15:44:52 [INFO] [Geyser-BungeeCord] 
+15:44:52 [INFO] [Geyser-BungeeCord] Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+15:44:52 [INFO] [Geyser-BungeeCord] 
+15:44:52 [INFO] [Geyser-BungeeCord] ******************************************
+15:44:52 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:52 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:53 [INFO] Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+15:44:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:b23a518:1786 by SpigotMC
+15:44:53 [INFO] Listening on /0.0.0.0:25565
+15:44:55 [INFO] [Geyser-BungeeCord] Started Geyser on 0.0.0.0:19132
+15:44:55 [INFO] [Geyser-BungeeCord] Done (2.711s)! Run /geyser help for help!
+15:45:14 [INFO] Closing listener [id: 0x5d5bca51, L:local:E:0a89f449]
+15:45:14 [INFO] Closing listener [id: 0xa58a2ecf, L:/0.0.0.0:25565]
+15:45:14 [INFO] Closing pending connections
+15:45:14 [INFO] Disconnecting 0 connections
+15:45:14 [INFO] Saving reconnect locations
+15:45:14 [INFO] Disabling plugins
+15:45:14 [INFO] [Geyser-BungeeCord] Shutting down Geyser.
+15:45:15 [INFO] [Geyser-BungeeCord] Geyser shutdown successfully.
+15:45:15 [INFO] Closing IO threads
+15:45:15 [INFO] [Geyser-BungeeCord] The skin uploader has been closed

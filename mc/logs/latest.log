@@ -1,4 +1,4 @@
-[08:25:48] [ServerMain/WARN]: Failed to get system info for Microarchitecture
+[15:44:53] [ServerMain/WARN]: Failed to get system info for Microarchitecture
 java.lang.NullPointerException: Cannot invoke "String.toUpperCase()" because "this.cpuVendor" is null
 	at oshi.hardware.CentralProcessor$ProcessorIdentifier.queryMicroarchitecture(CentralProcessor.java:825) ~[oshi-core-6.4.5.jar:6.4.5]
 	at oshi.util.Memoizer$1.get(Memoizer.java:61) ~[oshi-core-6.4.5.jar:6.4.5]
@@ -17,72 +17,88 @@ java.lang.NullPointerException: Cannot invoke "String.toUpperCase()" because "th
 	at org.bukkit.craftbukkit.Main.main(Main.java:325) ~[paper-1.20.4.jar:git-Paper-378]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[08:25:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:25:51] [ServerMain/INFO]: Loaded 1174 recipes
-[08:25:52] [ServerMain/INFO]: Loaded 1271 advancements
-[08:25:52] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[08:25:52] [Server thread/WARN]: ****************************
-[08:25:52] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[08:25:52] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[08:25:52] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[08:25:52] [Server thread/WARN]: ****************************
-[08:25:52] [Server thread/INFO]: Loading properties
-[08:25:52] [Server thread/INFO]: This server is running Paper version git-Paper-378 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: a58e29d)
-[08:25:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:25:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:25:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[15:44:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:44:58] [ServerMain/INFO]: Loaded 1174 recipes
+[15:44:58] [ServerMain/INFO]: Loaded 1271 advancements
+[15:44:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:44:58] [Server thread/WARN]: ****************************
+[15:44:58] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[15:44:58] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[15:44:58] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[15:44:58] [Server thread/WARN]: ****************************
+[15:44:58] [Server thread/INFO]: Loading properties
+[15:44:58] [Server thread/INFO]: This server is running Paper version git-Paper-378 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: a58e29d)
+[15:44:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:44:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:44:58] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[08:25:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[08:25:52] [Server thread/INFO]: Default game type: SURVIVAL
-[08:25:52] [Server thread/INFO]: Generating keypair
-[08:25:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:25:52] [Server thread/INFO]: Using epoll channel type
-[08:25:52] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[08:25:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux aarch64) cipher from Velocity.
-[08:25:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:25:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:25:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:25:52] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[08:25:52] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[08:25:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:25:52] [Server thread/INFO]: Preparing level "world"
-[08:25:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:25:53] [Server thread/INFO]: Time elapsed: 136 ms
-[08:25:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:25:53] [Server thread/INFO]: Time elapsed: 89 ms
-[08:25:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:25:53] [Server thread/INFO]: Time elapsed: 28 ms
-[08:25:53] [Server thread/INFO]: Running delayed init tasks
-[08:25:53] [Server thread/INFO]: Done (1.276s)! For help, type "help"
-[08:25:53] [Server thread/INFO]: Timings Reset
-[08:26:09] [User Authenticator #0/INFO]: UUID of player .dofab8816 is 00000000-0000-0000-0009-01fb58d3e837
-[08:26:09] [Server thread/INFO]: .dofab8816 joined the game
-[08:26:09] [Server thread/INFO]: .dofab8816[/172.18.0.1:36815] logged in with entity id 354 at ([world]13.5, 64.0, -3.5)
-[08:29:11] [Server thread/INFO]: .dofab8816 lost connection: Disconnected
-[08:29:11] [Server thread/INFO]: .dofab8816 left the game
-[08:29:35] [Server thread/INFO]: Stopping server
-[08:29:35] [Server thread/INFO]: Saving players
-[08:29:35] [Server thread/INFO]: Saving worlds
-[08:29:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:29:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:29:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:29:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:29:36] [Server thread/INFO]: [ChunkHolderManager] Saved 916 block chunks, 675 entity chunks, 0 poi chunks in world 'world' in 1.57s
-[08:29:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:29:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:29:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:29:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:29:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:29:37] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.82s
-[08:29:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:29:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:29:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:29:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:29:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:29:38] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.48s
-[08:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:29:38] [Server thread/INFO]: Flushing Chunk IO
-[08:29:38] [Server thread/INFO]: Closing Thread Pool
-[08:29:38] [Server thread/INFO]: Closing Server
+[15:44:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:44:59] [Server thread/INFO]: Default game type: SURVIVAL
+[15:44:59] [Server thread/INFO]: Generating keypair
+[15:44:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:44:59] [Server thread/INFO]: Using epoll channel type
+[15:44:59] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[15:44:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux aarch64) cipher from Velocity.
+[15:44:59] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.113
+[15:44:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:44:59] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.113
+[15:44:59] [Server thread/INFO]:         __    
+[15:44:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.113
+[15:44:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:44:59] [Server thread/INFO]: 
+[15:44:59] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:44:59] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MARIADB]
+[15:44:59] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[15:44:59] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[15:44:59] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[15:44:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:45:00] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:45:00] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 622ms)
+[15:45:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:45:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:45:00] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:45:00] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[15:45:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:45:00] [Server thread/INFO]: Preparing level "world"
+[15:45:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:45:00] [Server thread/INFO]: Time elapsed: 89 ms
+[15:45:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:45:00] [Server thread/INFO]: Time elapsed: 48 ms
+[15:45:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:45:00] [Server thread/INFO]: Time elapsed: 47 ms
+[15:45:00] [Server thread/INFO]: Running delayed init tasks
+[15:45:00] [Server thread/INFO]: Done (2.158s)! For help, type "help"
+[15:45:00] [Server thread/INFO]: Timings Reset
+[15:45:14] [Server thread/INFO]: Stopping server
+[15:45:14] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.113
+[15:45:14] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:45:14] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[15:45:14] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:45:14] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[15:45:14] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[15:45:14] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:45:14] [Server thread/INFO]: Saving players
+[15:45:14] [Server thread/INFO]: Saving worlds
+[15:45:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:45:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:45:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:45:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:45:15] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 1.35s
+[15:45:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:45:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:45:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:45:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:45:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:45:16] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.80s
+[15:45:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:45:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:45:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:45:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:45:17] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.49s
+[15:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:45:17] [Server thread/INFO]: Flushing Chunk IO
+[15:45:17] [Server thread/INFO]: Closing Thread Pool
+[15:45:17] [Server thread/INFO]: Closing Server
