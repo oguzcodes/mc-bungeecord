@@ -16,7 +16,7 @@ services:
     volumes:
       - ./mc:/mc
     working_dir: /mc
-    command: ["java",  "-Xms3G","-Xmx3G","-jar", "/mc/paper-1.20.4-378.jar","nogui"]
+    command: ["java",  "-Xms3G","-Xmx3G","-jar", "/mc/paper.jar","nogui"]
     depends_on:
       - db
 
